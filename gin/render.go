@@ -2,8 +2,8 @@ package gin
 
 import (
 	"github.com/clbanning/mxj"
+	"github.com/davron112/lura/v2/proxy"
 	"github.com/gin-gonic/gin"
-	"github.com/luraproject/lura/v2/proxy"
 )
 
 func init() {

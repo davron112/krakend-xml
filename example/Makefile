@@ -13,5 +13,5 @@ deps:
 	go get .
 
 build:
-	go build -ldflags="-X github.com/luraproject/lura/core.KrakendVersion=${KRAKEND_VERSION}" -o ${BIN_NAME}
+	go build -ldflags="-X github.com/davron112/lura/core.KrakendVersion=${KRAKEND_VERSION}" -o ${BIN_NAME}
 	@echo "You can now use ./${BIN_NAME}"

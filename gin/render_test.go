@@ -6,8 +6,8 @@ import (
 	"net/http/httptest"
 	"testing"
 
+	"github.com/davron112/lura/v2/proxy"
 	"github.com/gin-gonic/gin"
-	"github.com/luraproject/lura/v2/proxy"
 )
 
 func TestRender(t *testing.T) {
