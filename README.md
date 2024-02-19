@@ -1,11 +1,11 @@
 Krakend XML
 ====
 
-Enable XML encoding in the [Lura Project](github.com/luraproject/lura)
+Enable XML encoding in the [Lura Project](github.com/davron112/lura)
 
 ## Documentation
 
-For more details, check the auto-generated documentation: https://godoc.org/github.com/krakendio/krakend-xml
+For more details, check the auto-generated documentation: https://godoc.org/github.com/davron112/krakend-xml
 
 ## Using it
 
